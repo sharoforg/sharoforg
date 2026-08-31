@@ -1,11 +1,10 @@
 ### Hi there, I'm Sharof 👋
 
-🔵 SOC Analyst | CTF Player | Blue Team Enthusiast
+🔵 Aspiring SOC Analyst | CTF Player | Learning Blue Team & Cybersecurity
 
-- 🔭 Currently working on: log analysis and detection engineering
-- 🌱 Currently learning: SIEM (Splunk/ELK), threat hunting, malware analysis
+- 🔭 Currently learning: SOC fundamentals, log analysis, SIEM basics (Splunk/ELK)
+- 🌱 Also exploring: Reverse Engineering, Networking, C++, Rust
 - 🚩 CTF platforms: TryHackMe, HackTheBox
-- 💬 Ask me about: SOC workflows, log analysis, incident response
 ### 📫 Connect with me
 
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:sharofcoder@outlook.com)
