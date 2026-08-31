@@ -6,7 +6,12 @@
 - 🌱 Currently learning: SIEM (Splunk/ELK), threat hunting, malware analysis
 - 🚩 CTF platforms: TryHackMe, HackTheBox
 - 💬 Ask me about: SOC workflows, log analysis, incident response
-- 📫 Reach me at: https://x.com/sharofcoder
+### 📫 Connect with me
+
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:sharofcoder@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharofcoder)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/sharoforg)
+[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/sharofcoder)
 
 ---
 
